@@ -1,0 +1,21 @@
+{
+  "name": "recur_planner",
+  "version": "1.0.0",
+  "description": "Display and allocate truck dispatches for Recur orders",
+  "main": "index.js",
+  "scripts": {
+    "test": "node mocha"
+  },
+  "author": "Neil Read, Sean Tuson, Peter Wang, Ben Fisher, Long Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "chai": "^4.1.2",
+    "express": "^4.16.3",
+    "mocha": "^5.1.1",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
+}
